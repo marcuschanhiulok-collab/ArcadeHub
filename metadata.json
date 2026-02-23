@@ -1,0 +1,5 @@
+{
+  "name": "ArcadeHub",
+  "description": "A collection of classic mini-games including Tic-Tac-Toe, Snake, and Memory Match.",
+  "requestFramePermissions": []
+}
